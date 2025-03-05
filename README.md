@@ -14,7 +14,7 @@
 🚀 Scaling **email analytics pipelines** (millions of events processed daily)  
 🤖 Building **AI-powered automation** for marketing & sales  
 📊 Optimizing **ClickHouse for fast analytics**  
-💡 Creating **custom GPTs** for smarter decision-making 
+💡 Creating **custom GPTs** for smarter decision-making
 ⚙️ Automating everything at TLDR
 
 ### 💬 **Let’s Connect!**  
