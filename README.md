@@ -16,6 +16,10 @@
 📊 Optimizing **ClickHouse for fast analytics**  
 💡 Creating **custom GPTs** for smarter decision-making
 
+### 💾 **Go-To Stack**
+🚀 Next.js, Typescript, React  
+🤖 Node.js, Tailwind, Postgres  
+
 ### 💬 **Let’s Connect!**  
 🐦 Twitter/X: [@matteo_dm](https://twitter.com/yourhandle](https://x.com/matteo_dm))  
 💼 LinkedIn: [linkedin.com/in/matteo-mortelliti](https://www.linkedin.com/in/matteo-mortelliti/)  
