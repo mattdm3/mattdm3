@@ -15,7 +15,6 @@
 🤖 Building **AI-powered automation** for marketing & sales  
 📊 Optimizing **ClickHouse for fast analytics**  
 💡 Creating **custom GPTs** for smarter decision-making
-⚙️ Automating everything at TLDR
 
 ### 💬 **Let’s Connect!**  
 🐦 Twitter/X: [@matteo_dm](https://twitter.com/yourhandle](https://x.com/matteo_dm))  
