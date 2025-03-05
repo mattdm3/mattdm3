@@ -20,6 +20,9 @@
 🚀 Next.js, Typescript, React  
 🤖 Node.js, Tailwind, Postgres  
 
+### 👨🏻‍🍳 **Check out my latest SaaS Project**
+⛪️ [Discussio AI](https://getdiscussio.com)  
+
 ### 💬 **Let’s Connect!**  
 🐦 Twitter/X: [@matteo_dm](https://twitter.com/yourhandle](https://x.com/matteo_dm))  
 💼 LinkedIn: [linkedin.com/in/matteo-mortelliti](https://www.linkedin.com/in/matteo-mortelliti/)  
