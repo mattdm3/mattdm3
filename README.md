@@ -18,7 +18,7 @@
 ⚙️ Automating everything at TLDR
 
 ### 💬 **Let’s Connect!**  
-🐦 Twitter/X: [@matteo_dm]([https://twitter.com/yourhandle](https://x.com/matteo_dm))  
+🐦 Twitter/X: [@matteo_dm](https://twitter.com/yourhandle](https://x.com/matteo_dm))  
 💼 LinkedIn: [linkedin.com/in/matteo-mortelliti](https://www.linkedin.com/in/matteo-mortelliti/)  
 ⏰ TikTok: [@mattandcode]([https://www.linkedin.com/in/matteo-mortelliti/](https://www.tiktok.com/@mattandcode))  
 
