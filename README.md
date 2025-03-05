@@ -20,5 +20,5 @@
 ### 💬 **Let’s Connect!**  
 🐦 Twitter/X: [@matteo_dm](https://twitter.com/yourhandle](https://x.com/matteo_dm))  
 💼 LinkedIn: [linkedin.com/in/matteo-mortelliti](https://www.linkedin.com/in/matteo-mortelliti/)  
-⏰ TikTok: [@mattandcode]([https://www.linkedin.com/in/matteo-mortelliti/](https://www.tiktok.com/@mattandcode))  
+⏰ TikTok: [@mattandcode](https://www.tiktok.com/@mattandcode)  
 
